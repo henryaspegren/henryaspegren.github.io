@@ -17,7 +17,7 @@ title: Henry Aspegren's Website
 author: Henry Aspegren
 email: henryaspegren@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal website which documents the research projects I have worked on, the issues I care about and other content I want to share with the world.
+  My name is Henry Aspegren and this is my personal website to document the research projects I have worked on, write about the issues I care about and share content with the world. My primary interest is in using technology to create more efficient and inclusive systems. Currently I'm a Schwarzman Scholar pursuing a master's of global affairs in Beijing, China. Previously I was a graduate and undergraduate student in computer science at MIT.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  henryaspegren
