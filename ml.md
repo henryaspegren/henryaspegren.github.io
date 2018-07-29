@@ -7,13 +7,16 @@ permalink: /ml/
 
 Intro
 ======
-I got into distributed systems in ...
+tbd
 
 Criminology
 ======
-place holder
+[Predicting Criminal Behavior with Networks](/files/quebec_paper.pdf)
+
+
+[Is Crime Contagious?](/files/chicago_paper.pdf)
+
 
 NLP
 ======
-place holder
-~              
+[Who's Who - Learning to Identify Character from Anonymzed SparkNotes Descriptions](/files/whoiswho_paper.pdf)

@@ -11,9 +11,9 @@ I got into distributed systems in ...
 
 b_verify
 ======
-place holder
+Thesis forthcoming
 
-ECTO
+Crytocurrency
 ======
-place holder
-~              
+[ECTO - A Novel Proof-of-Stake Algorithm and Implementation](/files/ecto_paper.pdf)
+              
